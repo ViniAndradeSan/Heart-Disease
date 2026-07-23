@@ -1,3 +1,5 @@
+
+
 # Heart Disease — Predição de Doença Cardíaca
 
 Projeto desenvolvido para a disciplina de Aprendizado de Máquina. A proposta foi analisar um conjunto de dados de pacientes com doenças cardíacas e construir um modelo capaz de fazer uma estimativa da presença da doença a partir de informações clínicas.
@@ -160,6 +162,7 @@ Responsável pelo desenvolvimento das seções **após a 4.5**, incluindo:
 
 ## Vídeo da apresentação 
 
+Basta acessar: https://drive.google.com/file/d/1BIIq-IerPbqC18oALqsvgRpyseTym_4W/view?usp=sharing
 
 
 ## Uso de IA
